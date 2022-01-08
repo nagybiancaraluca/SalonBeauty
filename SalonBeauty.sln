@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonBeauty", "SalonBeauty\SalonBeauty.csproj", "{B811775D-2736-4459-BEBF-EED0324565D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{26A6EC94-726C-421B-922C-F4674612D329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B811775D-2736-4459-BEBF-EED0324565D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B811775D-2736-4459-BEBF-EED0324565D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B811775D-2736-4459-BEBF-EED0324565D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B811775D-2736-4459-BEBF-EED0324565D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A6EC94-726C-421B-922C-F4674612D329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A6EC94-726C-421B-922C-F4674612D329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A6EC94-726C-421B-922C-F4674612D329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A6EC94-726C-421B-922C-F4674612D329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034CA58F-6D04-4D53-9DAE-7F302F8983A6}
+	EndGlobalSection
+EndGlobal
